@@ -1,0 +1,19 @@
+{
+  "name": "learning-javascript",
+  "version": "1.0.0",
+  "description": "learning javascript concepts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/durgesh94/learning-javascript.git"
+  },
+  "author": "Durgesh Tambe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/durgesh94/learning-javascript/issues"
+  },
+  "homepage": "https://github.com/durgesh94/learning-javascript#readme"
+}
